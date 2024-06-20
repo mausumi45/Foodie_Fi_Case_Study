@@ -11,3 +11,4 @@ Danny has shared the data design for Foodie-Fi and also short descriptions of ea
 All datasets exist within the foodie_fi database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
 
 ### ER Diagram:
+![image](https://github.com/mausumi45/Case-Study-3---Foodie-Fi/assets/98810351/b5c7fa9b-1a33-43e7-b8c0-bc7eb172c69e)

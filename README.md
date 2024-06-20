@@ -23,6 +23,14 @@ When customers cancel their Foodie-Fi service - they will have a churn plan reco
 ### Table 2(subscriptions):
 Customer subscriptions show the exact date where their specific plan_id starts.
 
+## Case Study Questions:
+This case study is split into an initial data understanding question before diving straight into data analysis questions before finishing with 1 single extension challenge.
+
+#### A. Customer Journey
+Based off the 8 sample customers provided in the sample from the subscriptions table, write a brief description about each customer’s onboarding journey.
+
+Try to keep it as short as possible - you may also want to run some sort of join to make your explanations a bit easier!
+
 If customers downgrade from a pro plan or cancel their subscription - the higher plan will remain in place until the period is over - the start_date in the subscriptions table will reflect the date that the actual plan changes.
 
 When customers upgrade their account from a basic plan to a pro or annual pro plan - the higher plan will take effect straightaway.

@@ -35,10 +35,8 @@ Try to keep it as short as possible - you may also want to run some sort of join
 
 ### B. Data Analysis Questions:
 #### 1. How many customers has Foodie-Fi ever had?
-##### Code :
-      
 ##### Solution :
-      ![image](https://github.com/mausumi45/Case-Study-3---Foodie-Fi/assets/98810351/d95e7287-3514-40d9-8044-1c1067865632)
+![image](https://github.com/mausumi45/Case-Study-3---Foodie-Fi/assets/98810351/d95e7287-3514-40d9-8044-1c1067865632)
 #### 2. What is the monthly distribution of trial plan start_date values for our dataset - use the start of the month as the group by value
 
 #### 3. What plan start_date values occur after the year 2020 for our dataset? Show the breakdown by count of events for each plan_name

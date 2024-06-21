@@ -46,8 +46,10 @@ Try to keep it as short as possible - you may also want to run some sort of join
 ![image](https://github.com/mausumi45/Case-Study-3---Foodie-Fi/assets/98810351/fad27d1a-a305-47a4-848a-c430358dcc64)
 #### 4.What is the customer count and percentage of customers who have churned rounded to 1 decimal place?
 ##### Solution:
+![image](https://github.com/mausumi45/Case-Study-3---Foodie-Fi/assets/98810351/0d59e21a-06d6-4111-b6ca-bfddae319660)
 
 #### 5.How many customers have churned straight after their initial free trial - what percentage is this rounded to the nearest whole number?
+##### Solution:
 
 #### 6.What is the number and percentage of customer plans after their initial free trial?
 

@@ -38,8 +38,11 @@ Try to keep it as short as possible - you may also want to run some sort of join
 ##### Solution :
 ![image](https://github.com/mausumi45/Case-Study-3---Foodie-Fi/assets/98810351/d95e7287-3514-40d9-8044-1c1067865632)
 #### 2. What is the monthly distribution of trial plan start_date values for our dataset - use the start of the month as the group by value
+##### Solution:
+![image](https://github.com/mausumi45/Case-Study-3---Foodie-Fi/assets/98810351/d729f016-22f4-413e-8ed7-6c0019c70b8f)
 
 #### 3. What plan start_date values occur after the year 2020 for our dataset? Show the breakdown by count of events for each plan_name
+##### Solution:
 
 #### 4.What is the customer count and percentage of customers who have churned rounded to 1 decimal place?
 

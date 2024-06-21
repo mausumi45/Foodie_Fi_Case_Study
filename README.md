@@ -43,8 +43,9 @@ Try to keep it as short as possible - you may also want to run some sort of join
 
 #### 3. What plan start_date values occur after the year 2020 for our dataset? Show the breakdown by count of events for each plan_name
 ##### Solution:
-
+![image](https://github.com/mausumi45/Case-Study-3---Foodie-Fi/assets/98810351/fad27d1a-a305-47a4-848a-c430358dcc64)
 #### 4.What is the customer count and percentage of customers who have churned rounded to 1 decimal place?
+##### Solution:
 
 #### 5.How many customers have churned straight after their initial free trial - what percentage is this rounded to the nearest whole number?
 

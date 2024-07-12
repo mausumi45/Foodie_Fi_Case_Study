@@ -50,8 +50,10 @@ Try to keep it as short as possible - you may also want to run some sort of join
 
 #### 5.How many customers have churned straight after their initial free trial - what percentage is this rounded to the nearest whole number?
 ##### Solution:
+![image](https://github.com/user-attachments/assets/32b0ab83-5cc0-4b9b-a407-5d701ce5bab6)
 
 #### 6.What is the number and percentage of customer plans after their initial free trial?
+Solution :
 
 #### 7.What is the customer count and percentage breakdown of all 5 plan_name values at 2020-12-31?
 
